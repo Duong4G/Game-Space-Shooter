@@ -1,6 +1,6 @@
 # Game-Space-Shooter
 
-<h3>Make game with Unity<h3>
+<h3>Note:<h3>
 
 * You can't not open my project normaly because it lack Library folder.
 
